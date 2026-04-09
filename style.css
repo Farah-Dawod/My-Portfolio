@@ -88,8 +88,10 @@ cursor:context-menu;
 font-size:20px;
 }
 .project-card img{
-    width: 400px;
-    border-radius: 10px;
+     width: 400px;
+    margin: 5px;
+    height: 300px;
+    border-radius: 15px;
 }
 
 .project h2,.skills h2{
